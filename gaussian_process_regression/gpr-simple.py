@@ -1,6 +1,6 @@
 """
 usage:
-    python gpr-simple.py data/gpr.dat --output img/gpr.png
+    python gpr-simple.py data/gpr.dat --output img/gpr-simple.png
 """
 import argparse
 import numpy as np

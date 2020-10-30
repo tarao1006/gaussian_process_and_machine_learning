@@ -11,7 +11,7 @@ pip install -r requirements.txt
 2. 最適化なしのガウス過程
 
 ```bash
-python gpr-simple.py data/gpr.dat --output img/gpr.png
+python gpr-simple.py data/gpr.dat --output img/gpr-simple.png
 ```
 
 3. 最適化ありのガウス過程
